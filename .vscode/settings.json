@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "netmap.h": "c",
+        "thread": "cpp",
+        "netmap_user.h": "c",
+        "inet.h": "c",
+        "netmap_mem2.h": "c",
+        "netmap_kern.h": "c",
+        "io_context": "c",
+        "poll.h": "c"
+    }
+}
